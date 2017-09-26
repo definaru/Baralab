@@ -1,0 +1,13 @@
+body, html {
+	margin:0;
+	padding:0;
+	width:100%;
+}
+.main {
+	width:70%;
+	margin: 0 auto;
+}
+.done-true {
+  text-decoration: line-through;
+  color: grey;
+}

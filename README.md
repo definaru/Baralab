@@ -1,2 +1,2 @@
-# Baralab
-Простой скрипт на AngularJS
+# baralab
+AngularJS
