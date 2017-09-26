@@ -1,2 +1,2 @@
 # baralab
-AngularJS
+Простой скрипт на фреймворк AngularJS
